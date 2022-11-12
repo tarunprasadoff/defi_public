@@ -1,0 +1,17 @@
+All common files between cErc20Delegator_{i} for i=4,5 and StdComptrollerG{j} for j=3,4,5:
+    Everything is same except for:
+        cTokenInterfaces in cErc20Delegator_5 has an extra import and a few other extra lines
+
+All common files between StdComptrollerG{j} for j=3,4,5:
+    Everything is same except for ComptrollerStorage between j=4,5
+        In G5, StorageV4 is implemented additionally with 2 more variables
+
+All files in Whitepaper Interest Model are same except for Base500bps_Slope1500bps.sol which has a greaterThanExp function additionally in the Exponential Contract
+Also IRM_cCOMP_Updateable.sol is exactly same as IRM_COMP_Updateable
+
+All files in JumpRateModelV2 are the same except for IRM_USDT_Updateable.sol which does not inherit BaseJumpRateModelV2 like all the other contacts
+
+Token Differences
+    cErc20Delegator_1 and cErc20 do not have a sweep function
+    Delegator5 has an additional reserve share during seizure
+    cErc20 InterestRateModel does not have a getSupplyRate like common InterestRateModel and getBorrowRate returns 2 Ints

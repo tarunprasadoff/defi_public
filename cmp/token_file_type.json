@@ -1,0 +1,22 @@
+{
+    "cAAVE": "cErc20Delegator_5",
+    "cBAT":	"cErc20",
+    "cCOMP": "cErc20Delegator_4",
+    "cDAI":	"cErc20Delegator_1",
+    "cETH":	"cEther",
+    "cFEI":	"cErc20Delegator_5",
+    "cLINK": "cErc20Delegator_5",
+    "cMKR":	"cErc20Delegator_5",
+    "cREP":	"cErc20",
+    "cSAI":	"cErc20",
+    "cSUSHI":	"cErc20Delegator_5",
+    "cTUSD":	"cErc20Delegator_4",
+    "cUNI":	"cErc20Delegator_4",
+    "cUSDC":	"cErc20",
+    "cUSDP":	"CErc20Delegator_5",
+    "cUSDT":	"CErc20Delegator_4",
+    "cWBTC":	"cErc20",
+    "cWBTC2":	"CErc20Delegator_5",
+    "cYFI":	"CErc20Delegator_5",
+    "cZRX": "cErc20"
+}

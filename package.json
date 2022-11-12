@@ -1,0 +1,23 @@
+{
+  "name": "defi_public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunprasadoff/defi_public.git"
+  },
+  "author": "tarunprasadoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunprasadoff/defi_public/issues"
+  },
+  "homepage": "https://github.com/tarunprasadoff/defi_public#readme",
+  "dependencies": {
+    "danfojs-node": "^1.1.2",
+    "ethers": "^5.7.1"
+  }
+}

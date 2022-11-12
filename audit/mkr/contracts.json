@@ -1,0 +1,176 @@
+{
+    "dai": {
+        "name": "dai",
+        "alt": "MCD_DAI",
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "link": "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f"
+    },
+    "join_dai": {
+        "name": "join_dai",
+        "alt": "MCD_JOIN_DAI",
+        "address": "0x9759A6Ac90977b93B58547b4A71c78317f391A28",
+        "link": "https://etherscan.io/address/0x9759a6ac90977b93b58547b4a71c78317f391a28"
+    },
+    "vat": {
+        "name": "vat",
+        "alt": "MCD_VAT",
+        "address": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+        "link": "https://etherscan.io/address/0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b"
+    },
+    "spot": {
+        "name": "spot",
+        "alt": "MCD_SPOT",
+        "address": "0x65C79fcB50Ca1594B025960e539eD7A9a6D434A3",
+        "link": "https://etherscan.io/address/0x65c79fcb50ca1594b025960e539ed7a9a6d434a3"
+    },
+    "dog": {
+        "name": "dog",
+        "alt": "MCD_DOG",
+        "address": "0x135954d155898D42C90D2a57824C690e0c7BEf1B",
+        "link": "https://etherscan.io/address/0x135954d155898D42C90D2a57824C690e0c7BEf1B"
+    },
+    "clip_eth_a": {
+        "name": "clip_eth_a",
+        "alt": "MCD_CLIP_ETH_A",
+        "address": "0xc67963a226eddd77B91aD8c421630A1b0AdFF270",
+        "link": "https://etherscan.io/address/0xc67963a226eddd77b91ad8c421630a1b0adff270"
+    },
+    "abacus_eth_a": {
+        "name": "abacus_eth_a",
+        "alt": "MCD_CLIP_CALC_ETH_A",
+        "address": "0x7d9f92DAa9254Bbd1f479DBE5058f74C2381A898",
+        "link": "https://etherscan.io/address/0x7d9f92DAa9254Bbd1f479DBE5058f74C2381A898"
+    },
+    "osm_eth": {
+        "name": "osm_eth",
+        "alt": "PIP_ETH",
+        "address": "0x81FE72B5A8d1A857d176C3E7d5Bd2679A9B85763",
+        "link": "https://etherscan.io/address/0x81FE72B5A8d1A857d176C3E7d5Bd2679A9B85763"
+    },
+    "medianizer_eth_usd": {
+        "name": "medianizer_eth_usd",
+        "alt": "",
+        "address": "0x64DE91F5A373Cd4c28de3600cB34C7C6cE410C85",
+        "link": "https://etherscan.io/address/0x64DE91F5A373Cd4c28de3600cB34C7C6cE410C85"
+    },
+    "flap": {
+        "name": "flap",
+        "alt": "MCD_FLAP",
+        "address": "0xa4f79bC4a5612bdDA35904FDF55Fc4Cb53D1BFf6",
+        "link": "https://etherscan.io/address/0xa4f79bC4a5612bdDA35904FDF55Fc4Cb53D1BFf6"
+    },
+    "flop": {
+        "name": "flop",
+        "alt": "MCD_FLOP",
+        "address": "0xA41B6EF151E06da0e34B009B86E828308986736D",
+        "link": "https://etherscan.io/address/0xA41B6EF151E06da0e34B009B86E828308986736D"
+    },
+    "vow": {
+        "name": "vow",
+        "alt": "MCD_VOW",
+        "address": "0xA950524441892A31ebddF91d3cEEFa04Bf454466",
+        "link": "https://etherscan.io/address/0xA950524441892A31ebddF91d3cEEFa04Bf454466"
+    },
+    "mkr": {
+        "name": "mkr",
+        "alt": "MCD_GOV",
+        "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "link": "https://etherscan.io/address/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+    },
+    "pause": {
+        "name": "pause",
+        "alt": "MCD_PAUSE",
+        "address": "0xbE286431454714F511008713973d3B053A2d38f3",
+        "link": "https://etherscan.io/address/0xbE286431454714F511008713973d3B053A2d38f3"
+    },
+    "pause_proxy": {
+        "name": "pause_proxy",
+        "alt": "MCD_PAUSE_PROXY",
+        "address": "0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB",
+        "link": "https://etherscan.io/address/0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB"
+    },
+    "chief": {
+        "name": "chief",
+        "alt": "MCD_ADM",
+        "address": "0x0a3f6849f78076aefadf113f5bed87720274ddc0",
+        "link": "https://etherscan.io/address/0x0a3f6849f78076aefadf113f5bed87720274ddc0"
+    },
+    "pot": {
+        "name": "pot",
+        "alt": "MCD_POT",
+        "address": "0x197E90f9FAD81970bA7976f33CbD77088E5D7cf7",
+        "link": "https://etherscan.io/address/0x197E90f9FAD81970bA7976f33CbD77088E5D7cf7"
+    },
+    "jug": {
+        "name": "jug",
+        "alt": "MCD_JUG",
+        "address": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+        "link": "https://etherscan.io/address/0x19c0976f590D67707E62397C87829d896Dc0f1F1"
+    },
+    "ds_proxy": {
+        "name": "ds_proxy",
+        "alt": "",
+        "address": "",
+        "link": ""
+    },
+    "spell": {
+        "name": "spell",
+        "alt": "",
+        "address": "",
+        "link": ""
+    },
+    "proxy_actions": {
+        "name": "proxy_actions",
+        "alt": "PROXY_ACTIONS",
+        "address": "0x82ecD135Dce65Fbc6DbdD0e4237E0AF93FFD5038",
+        "link": "https://etherscan.io/address/0x82ecD135Dce65Fbc6DbdD0e4237E0AF93FFD5038"
+    },
+    "proxy_actions_end": {
+        "name": "proxy_actions_end",
+        "alt": "PROXY_ACTIONS_END",
+        "address": "0x7AfF9FC9faD225e3c88cDA06BC56d8Aca774bC57",
+        "link": "https://etherscan.io/address/0x7AfF9FC9faD225e3c88cDA06BC56d8Aca774bC57"
+    },
+    "proxy_actions_dsr": {
+        "name": "proxy_actions_dsr",
+        "alt": "PROXY_ACTIONS_DSR",
+        "address": "0x07ee93aEEa0a36FfF2A9B95dd22Bd6049EE54f26",
+        "link": "https://etherscan.io/address/0x07ee93aEEa0a36FfF2A9B95dd22Bd6049EE54f26"
+    },
+    "cdp_manager": {
+        "name": "cdp_manager",
+        "alt": "CDP_MANAGER",
+        "address": "0x5ef30b9986345249bc32d8928B7ee64DE9435E39",
+        "link": "https://etherscan.io/address/0x5ef30b9986345249bc32d8928B7ee64DE9435E39"
+    },
+    "dsr_manager": {
+        "name": "dsr_manager",
+        "alt": "DSR_MANAGER",
+        "address": "0x373238337Bfe1146fb49989fc222523f83081dDb",
+        "link": "https://etherscan.io/address/0x373238337Bfe1146fb49989fc222523f83081dDb"
+    },
+    "vote_proxy": {
+        "name": "vote_proxy",
+        "alt": "",
+        "address": "",
+        "link": ""
+    },
+    "flash": {
+        "name": "flash",
+        "alt": "MCD_FLASH_LEGACY",
+        "address": "0x1EB4CF3A948E7D72A198fe073cCb8C7a948cD853",
+        "link": "https://etherscan.io/address/0x1EB4CF3A948E7D72A198fe073cCb8C7a948cD853"
+    },
+    "ilk_registry": {
+        "name": "ilk_registry",
+        "alt": "ILK_REGISTRY",
+        "address": "0x5a464C28D19848f44199D003BeF5ecc87d090F87",
+        "link": "https://etherscan.io/address/0x5a464C28D19848f44199D003BeF5ecc87d090F87"
+    },
+    "dummy": {
+        "name": "",
+        "alt": "",
+        "address": "",
+        "link": "https://etherscan.io/address/"
+    }
+}
